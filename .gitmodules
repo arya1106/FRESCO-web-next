@@ -1,0 +1,6 @@
+[submodule "fresco-infra"]
+	path = infra
+	url = https://github.com/j-mckerracher/fresco-infra
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/arya1106/FRESCO-web-front-end.git
